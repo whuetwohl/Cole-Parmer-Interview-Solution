@@ -1,0 +1,9 @@
+c:\projects\Cole-ParmerInterview\Cole-ParmerInterview\obj\Debug\Cole-ParmerInterview.csprojResolveAssemblyReference.cache
+c:\projects\Cole-ParmerInterview\Cole-ParmerInterview\obj\Debug\Cole-ParmerInterview.csproj.CoreCompileInputs.cache
+c:\projects\Cole-ParmerInterview\Cole-ParmerInterview\bin\Debug\Cole-ParmerInterview.exe.config
+c:\projects\Cole-ParmerInterview\Cole-ParmerInterview\bin\Debug\Cole-ParmerInterview.exe
+c:\projects\Cole-ParmerInterview\Cole-ParmerInterview\bin\Debug\Cole-ParmerInterview.pdb
+c:\projects\Cole-ParmerInterview\Cole-ParmerInterview\bin\Debug\Newtonsoft.Json.dll
+c:\projects\Cole-ParmerInterview\Cole-ParmerInterview\bin\Debug\Newtonsoft.Json.xml
+c:\projects\Cole-ParmerInterview\Cole-ParmerInterview\obj\Debug\Cole-ParmerInterview.exe
+c:\projects\Cole-ParmerInterview\Cole-ParmerInterview\obj\Debug\Cole-ParmerInterview.pdb
